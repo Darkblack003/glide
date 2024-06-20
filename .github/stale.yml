@@ -17,5 +17,5 @@ markComment: >
   activity in the last seven days. It will be closed if no further activity
   occurs within the next seven days. Thank you for your contributions.
 # Comment to post when closing a stale issue. Set to `false` to disable
-closeComment: true
-unmarkComment: true
+closeComment: false
+unmarkComment: false
